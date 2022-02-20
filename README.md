@@ -30,6 +30,5 @@
             <hr>
             <p class="instruction">Após realizado o passo anterior, o sistema será iniciado no console abaixo, e dará as instruções para prosseguir.</p>    
             <img src="assets/Passo 5.png" alt="imagem do passo 5" style="width: 50%;">
-
-        </div>
-    </section>
+ </div>
+       
